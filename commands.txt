@@ -1,0 +1,65 @@
+    1  git clone https://github.com/JubrilKolade/soleer-dev-workshop.git
+    2  cd Desktop
+    3  cd Desktop
+    4  git clone https://github.com/JubrilKolade/NFT-Token-webpage-team-C.git
+    5  code .
+    6  cd Desktop
+    7  git clone [200~
+    8  git clone https://github.com/JubrilKolade/NFT-Token-webpage-team-C.git
+    9  code .
+   10  cd NFT-Token-webpage-team-C
+   11  code .
+   12  cd Desktop
+   13  npx create-next-app@latest
+   14  cd Desktop
+   15  git clone https://github.com/DruxAMB/tokenForge.git
+   16  cd tokenForge
+   17  code .
+   18  cd Desktop
+   19  mkdir CreatorsLab
+   20  echo "# -Creatorslab" >> README.md
+   21  git init
+   22  git add README.md
+   23  git commit -m "first commit"
+   24  git branch -M main
+   25  git remote add origin https://github.com/Creatorslabs/-Creatorslab.git
+   26  git push -u origin main
+   27  ls
+   28  cd Desktop
+   29  rm -rf .git
+   30  cd CreatorsLab
+   31  npx create-next-app@latest
+   32  cd Desktop
+   33  cd CreatorsLab
+   34  npx create-next-app@latest
+   35  code .
+   36  ls
+   37  clear
+   38  ls
+   39  cd desktop
+   40  ls
+   41  clear
+   42  cd ..
+   43  cd desktop
+   44  ls
+   45  cd datas
+   46  cd ..
+   47  cd ..
+   48  clear
+   49  cd Desktop
+   50  mkdir git-class
+   51  cd git-class
+   52  touch joy.txt
+   53  touch data.xlsx visuals.pbix jub.sql
+   54  git init
+   55  git remote add origin https://github.com/JubrilKolade/da-proj.git
+   56  git branch -M main
+   57  git push -u origin main
+   58  git status
+   59  git add joy.txt
+   60  git status
+   61  git add .
+   62  git status
+   63  git commit -m 'added 4 files'
+   64  git push -u origin main
+   65  history >> commands.txt
